@@ -1,0 +1,44 @@
+_repo: Lefty-Locke-Pitcher-Manager_34100
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wrenn, Charles L. (Charles Lewis)
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '25468'
+    url: http://www.gutenberg.org/2009/agents/25468
+covers:
+- cover_type: archival
+  image_path: 34100-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Standish, Burt L.
+    aliases:
+    - Patten, William Gilbert
+    - Patten, William G. (William Gilbert)
+    - Wilder, William W. (William West)
+    - Wilder, William West
+    - Patten, George William
+    - Patten, Gilbert
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '3848'
+    url: http://www.gutenberg.org/2009/agents/3848
+    wikipedia: http://en.wikipedia.org/wiki/Burt_L._Standish
+description: ''
+gutenberg_issued: '2010-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34100'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swindlers and swindling -- Juvenile fiction'
+- !lcsh 'Baseball managers -- Juvenile fiction'
+- !lcsh 'Baseball stories'
+- !lcsh 'Teamwork (Sports) -- Juvenile fiction'
+- !lcc 'PZ'
+title: Lefty Locke Pitcher-Manager
+url: http://www.gutenberg.org/ebooks/34100
